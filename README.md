@@ -20,12 +20,12 @@ The Vrinda Store Analysis Dashboard is a dynamic retail performance tracker buil
 
 💾 File Format – .xlsx Excel file with embedded pivot charts and controls.
 
-4. Data Source
+4. Data Source:
 Downloaded the dataset from Kaggle.
 
 Fields: Date, Product Category, Sales Channel, Order ID, Order Status, Gender, Age, State, Sales Amount, etc.
 
-5. Key Features & Insights
+5. Key Features & Insights:
 📅 Order vs Sales Trend
 Compares monthly order count vs sales value.
 
