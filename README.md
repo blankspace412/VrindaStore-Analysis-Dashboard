@@ -51,4 +51,4 @@ Maharashtra, Karnataka, and Uttar Pradesh are the top-performing states.
 Helps in regional strategy planning.
 
 6. Snapshots/ Demos:
-The Dashboard looks like this - 
+The Dashboard looks like this - https://github.com/blankspace412/VrindaStore-Analysis-Dashboard/blob/main/Snapshot%20of%20Vrinda%20Store%20Analysis%20Dashboard.png
